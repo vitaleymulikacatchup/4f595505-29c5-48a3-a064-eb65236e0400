@@ -122,7 +122,7 @@ export default function Home() {
               id: "bvb-scarf",
               name: "Official BVB Scarf",
               price: "€24.99",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1763033964717-2a1htgdr.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/bvb-scarf-1763036933145-9bcfb021.jpg",
               imageAlt: "BVB official scarf yellow black"
             },
             {
