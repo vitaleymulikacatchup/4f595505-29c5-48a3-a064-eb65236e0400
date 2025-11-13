@@ -108,7 +108,7 @@ export default function Home() {
               id: "bvb-home-jersey",
               name: "BVB Home Jersey 2024/25",
               price: "€89.99",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1763033962700-xnjzcgkb.jpg",
+              imageSrc: "https://pixabay.com/get/g1c1ae9f2f205feae090677d2e0f6e7828b6104268d579a24ead9c85099182c6cea8e173d12d88e0816c0e2f2c1a48396cc210e8fd73ff17433651e0bd3ce9fab_1280.jpg",
               imageAlt: "BVB home jersey yellow black"
             },
             {
