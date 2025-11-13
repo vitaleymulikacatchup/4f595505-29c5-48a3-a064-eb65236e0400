@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
@@ -11,7 +11,7 @@ import TestimonialCardOne from '@/components/sections/testimonial/TestimonialCar
 import SocialProofOne from '@/components/sections/socialProof/SocialProofOne';
 import ContactSplitForm from '@/components/sections/contact/ContactSplitForm';
 import FooterBase from '@/components/sections/footer/FooterBase';
-import { Calendar, Crown, HandShake, Heart, MessageCircle, Shield, ShoppingBag, Star, Trophy, Truck, Users } from "lucide-react";
+import { Calendar, Crown, Handshake, Heart, MessageCircle, Shield, ShoppingBag, Star, Trophy, Truck, Users } from "lucide-react";
 
 export default function Home() {
   return (
@@ -330,7 +330,7 @@ export default function Home() {
           title="Trusted Partners"
           description="Official partnerships with leading sports brands and organizations"
           tag="Partners"
-          tagIcon={HandShake}
+          tagIcon={Handshake}
           textboxLayout="default"
           logos={[
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1763033979773-yqx9ymmf.jpg",
