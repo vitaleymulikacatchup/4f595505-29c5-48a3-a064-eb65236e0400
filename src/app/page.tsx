@@ -406,7 +406,6 @@ export default function Home() {
               ]
             }
           ]}
-          brandName="BVB Fans Shop"
           copyrightText="© 2025 | BVB Fans Shop - Echte Liebe"
         />
       </div>
